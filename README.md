@@ -6,8 +6,6 @@
 [![Flask](https://img.shields.io/badge/Flask-3.0.0-green.svg)](https://flask.palletsprojects.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-![Dashboard Preview](screenshots/dashboard-overview.png)
-
 ---
 
 ## 📖 Overview
@@ -259,27 +257,7 @@ CEF:0|SyreOps|OT-SOC-Analyzer|1.0|ALERT-123|Attack Detected|3|rt=2025-11-06T12:0
 ---
 
 ## 📸 Screenshots
-
-### Dashboard Overview
-![Dashboard](screenshots/dashboard-overview.png)
-*Main analysis interface showing risk score, attack detection, and protocol distribution*
-
-### Custom Alert Rules
-![Alert Rules](screenshots/custom-alert-rules.png)
-*Define environment-specific detection rules for ICS protocols*
-
-### Threat Intelligence
-![Threat Intel](screenshots/threat-intelligence.png)
-*Cross-reference detected IPs with threat databases*
-
-### SIEM Export
-![SIEM Export](screenshots/siem-export.png)
-*Export alerts in multiple SIEM-compatible formats*
-
-### PDF Report
-![PDF Report](screenshots/pdf-report.png)
-*Auto-generated analyst report with MITRE mappings and recommendations*
-
+ All screenshots included in zip folder
 ---
 
 ## 🎯 Use Cases
@@ -388,5 +366,6 @@ MIT License - see [LICENSE](LICENSE) file for details
 **Built with 🛡️ for Critical Infrastructure Security**
 
 *This project demonstrates practical application of academic security research in operational environments, bridging the gap between theoretical threat modeling and real-world SOC operations.*
+
 
 **Disclaimer**: This is an educational engineering project demonstrating implementation of research concepts. It is not a commercial product, does not claim novelty in research methodology, and has not undergone formal security validation. Use in production environments requires thorough testing and validation.
